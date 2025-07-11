@@ -40,5 +40,5 @@ A bar chart showing average marks of all students, calculated and visualized usi
 
 ## 🚀 Author
 
-Made with ❤️ by [Your Name](https://github.com/yourusername)  
+Made with ❤️ by Rajeev
 BCA Student | Aspiring Data Scientist | 🇯🇵 MEXT '28 Applicant  
